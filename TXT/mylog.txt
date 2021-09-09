@@ -15,6 +15,5 @@ ZCZC W01 180 L09 Downloading VirtualBox and etc
 ZCZC W01 5 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 25 L11 Assignment #01 VirtualBox Guest Preparation
 ZCZC W01 25 L12 Assignment #02 Importing or Installing?
-ZCZC W01 25 L13 Assignment #03 The ATM Way: GSGS and Read
+ZCZC W01 120 L13 Assignment #03 The ATM Way: GSGS and Read
 ZCZC W01 25 L14 Assignment #04 Dress Up Your Virtual Guest
-
