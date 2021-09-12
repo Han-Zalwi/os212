@@ -17,4 +17,4 @@ ZCZC W01 25 L11 Assignment #01 VirtualBox Guest Preparation
 ZCZC W01 25 L12 Assignment #02 Importing or Installing?
 ZCZC W01 120 L13 Assignment #03 The ATM Way: GSGS and Read
 ZCZC W01 25 L14 Assignment #04 Dress Up Your Virtual Guest
-ZCZC W01 60 L32 YouTube: watchi neso academy
+ZCZC W01 60 L32 YouTube: watch neso academy (operation system)
