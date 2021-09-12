@@ -9,3 +9,6 @@ This video explains a lot about the basics of the operating system
 
 2. [Operating System Web](https://os.vlsm.org/)<br>
 This website is for fasilkom students to learn operating systems
+
+3. [W3schools Operating System](https://www.w3schools.in/operating-system-tutorial/intro/)<br>
+This website from w3school contains materials about operating systems
