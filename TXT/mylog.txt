@@ -23,3 +23,5 @@ ZCZC W01 30 L16 Assignment #06 Dress Up Your GitHub Page
 ZCZC W01 10 L17 Assignment #07 Update mylog.txt
 ZCZC W01 60 L18 Assignment #08 More awk, bash, regex, sed
 ZCZC W01 30 L19 Assignment #09 OSC 10
+ZCZC W01 100 L02 Zoom Meetings OS
+ZCZC W02 60 L20 Assignment #01 Read OSC10 chapter 16 and chapter 17
