@@ -12,3 +12,6 @@ This website is for fasilkom students to learn operating systems
 
 3. [W3schools Operating System](https://www.w3schools.in/operating-system-tutorial/intro/)<br>
 This website from w3school contains materials about operating systems
+
+4. [Stack Overflow](https://stackoverflow.com/)<br>
+   a place where programmers ask questions and share their ideas about programming
