@@ -31,3 +31,4 @@ ZCZC W02 60 L14 Assignment #04 Generate a GnuPG Key Pair
 ZCZC W02 30 L15 Assignment #05 List of all GnuPG Keys
 ZCZC W02 60 L16 Assignment #06 Importing ospubkey.txt Key
 ZCZC W02 60 L17 Assignment #07 Signing the Operation System Public Key
+ZCZC W02 120 L18 Assignment #08 Export YOUR PUBLIC KEY to your repo file ”TXT/mypubkey.txt”.
