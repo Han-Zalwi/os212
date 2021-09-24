@@ -15,3 +15,6 @@ This website from w3school contains materials about operating systems
 
 4. [Stack Overflow](https://stackoverflow.com/)<br>
    a place where programmers ask questions and share their ideas about programming
+
+5. [operatingsystem](https://www.operating-system.org/index.html)<br>
+   This website contains the history and development of the operating system. In addition, this website explains more about the operating system. perfect for those of you who want to know the operating system
