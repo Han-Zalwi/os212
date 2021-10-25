@@ -71,7 +71,18 @@ ZCZC W05 60 L16 Assignment #06 (Optional) Any suggestions/tips for the next seme
 Kadal’s "TIPS/".
 ZCZC W05 60 L17 Assignment #07 Review your peer links
 ZCZC W05 60 L18 Update your log. See C.B. Kadal’s ”mylog.txt”
-
+ZCZC W06 5 L22 Quiz5_Week05
+ZCZC W06 15 L22 Quiz5_Week05
+ZCZC W06 100 L02 Zoom Meeting
+ZCZC W06 120 L11 Assignment #01  Read OSC10 chapter 3 and 4
+ZCZC W06 180 L12 Assignment #02 Tried Demos
+ZCZC W06 100 L13 Assignment #03 Tried Previous MidTem Problems
+ZCZC W06 60 L14 Assignment #04 Observed Fork() and Shared Memory.
+ZCZC W06 60 L15 Assignment #05 Updated my bookmark links. 
+ZCZC W06 60 L16 Assignment #06 Updated Tips.
+ZCZC W06 60 L17 Assignment #07 Reviewed my peer links.
+ZCZC W06 60 L18 Assignment #08 Updated my log. 
+ZCZC W06 60 L19 Assignment #09 Submitted my Week 06 Assignment.
 
 
 

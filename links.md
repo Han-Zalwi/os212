@@ -24,3 +24,6 @@ This website from w3school contains materials about operating systems
 
 7. [C Syntax](https://www.petanikode.com/c-syntak/)<br>
    Basic C language tutorial using Indonesian. In addition, the tutorials are followed by easy-to-understand examples. Very Useful for those of you still confused or unfamiliar with C syntax
+
+8. [Linux - Tutorial for Beginners](https://www.youtube.com/watch?v=BMGixkvJ-6w)<br>
+   Learn how to use Linux (Ubuntu distribution) with this bash terminal tutorial in only 13 minutes by using its most-common terminal. By watching this, it is hoped that we can operate the terminal on Linux better
