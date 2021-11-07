@@ -27,3 +27,10 @@ This website from w3school contains materials about operating systems
 
 8. [Linux - Tutorial for Beginners](https://www.youtube.com/watch?v=BMGixkvJ-6w)<br>
    Learn how to use Linux (Ubuntu distribution) with this bash terminal tutorial in only 13 minutes by using its most-common terminal. By watching this, it is hoped that we can operate the terminal on Linux better
+
+9. [Race Condition](https://searchstorage.techtarget.com/definition/race-condition)<br>
+   A race condition is an undesirable situation that occurs when a device or system attempts to perform two or more operations at the same time, but because of the nature of the device or system, the operations must be done in the proper sequence to be done correctly. Race conditions are most commonly associated with computer science and programming. They occur when two computer program processes, or threads, attempt to access the same resource at the same time and cause problems in the system.
+
+10. [System Operation Critical Section Problem](https://www.javatpoint.com/os-critical-section-problem)<br>
+   Critical Section is the part of a program which tries to access shared resources. That resource may be any resource in a computer like a memory location, Data structure, CPU or any IO device. The critical section cannot be executed by more than one process at the same time; operating system faces the difficulties in allowing and disallowing the processes from entering the critical section.
+
