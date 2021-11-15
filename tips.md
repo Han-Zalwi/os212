@@ -11,3 +11,5 @@ permalink: /TIPS/
 3. Don't forget to try the existing DEMO to understand the learning material
 
 4. Don't Hesitate Ask the Assistant Lecturer to help with your difficulties
+
+5. for operating system courses, it is highly recommended to have a laptop/pc with qualified specs to make it easier to do assignment
