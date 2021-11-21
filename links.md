@@ -37,3 +37,8 @@ This website from w3school contains materials about operating systems
 11. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
    A typical process involves both I/O time and CPU time. In a uni programming system like MS-DOS, time spent waiting for I/O is wasted and CPU is free during this time. In multi programming systems, one process can use CPU while another is waiting for I/O. This is possible only with process scheduling.
 
+12. [States of a Process in Operating Systems](https://www.geeksforgeeks.org/states-of-a-process-in-operating-systems/)<br>
+   A process is a program in execution which then forms the basis of all computation. A process is an ‘active’ entity as opposed to the program which is considered to be a ‘passive’ entity. Attributes held by the process include hardware state, memory, CPU, etc.
+
+
+

@@ -13,3 +13,6 @@ permalink: /TIPS/
 4. Don't Hesitate Ask the Assistant Lecturer to help with your difficulties
 
 5. for operating system courses, it is highly recommended to have a laptop/pc with qualified specs to make it easier to do assignment
+
+6. 
+read the instructions given carefully to avoid mistakes in doing the task
